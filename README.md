@@ -1,48 +1,67 @@
-Hi 👋, I'm Aanak!
+# <h1 align="center">Hi 👋, I'm Aanak!</h1>
 
-Data Analyst 
+<p align="center">
+  <img src="YOUR_IMAGE_URL" alt="Aanak's Profile Picture" width="180" style="border-radius: 50%;" />
+</p>
 
-I'm curious about how things work, love learning new things, and believe that understanding the why is just as important as knowing the how.
-
-📊 Exploring data with Power BI, PostgreSQL, Python, and Excel
-
-🔍 Interested in discovering patterns and finding insights hidden in data
-
-🌱 Always learning, experimenting, and improving one project at a time
-
-💡 Fun fact: If something doesn't make sense to me, I'm going to keep asking until it does! 😄
+<h2 align="center">Aspiring Data Analyst | Turning Data into Meaningful Insights 📊</h2>
 
 ---
 
-### 🛠️ Languages and Tools
+I'm curious about how things work, love learning new things, and believe that understanding the **why** is just as important as knowing the **how**.
 
-<p align="left">
+- 📊 Exploring data with **Power BI, PostgreSQL, Python, and Excel**
+- 🔍 Interested in discovering patterns and finding insights hidden in data
+- 🌱 Always learning, experimenting, and improving one project at a time
+- 💡 **Fun fact:** If something doesn't make sense to me, I'm going to keep asking until it does! 😄
+
+---
+
+## 🛠️ My Skills & Tools
+
+### 📊 Data Analytics
+<p>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+</p>
+
+### 💻 Programming & Web Development
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+</p>
+
+### 🎨 Design Tools
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
 </p>
 
 ---
 
-### 📈 GitHub Stats
+## 🤝 Connect With Me
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=aanak30&show_icons=true&hide_border=true&theme=default" alt="GitHub statistics"/>
+<p>
+  📧 <strong>Email:</strong>
+  <a href="mailto:takanksha455@gmail.com">takanksha455@gmail.com</a>
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aanak30&layout=compact&hide_border=true&theme=default" alt="Most used languages"/>
+<p>
+  💻 <strong>GitHub:</strong>
+  <a href="https://github.com/aanak30">@aanak30</a>
 </p>
 
 ---
-
-### 📫 Connect With Me
-
-- 📧 Email: [takanksha455@gmail.com](mailto:takanksha455@gmail.com)
-- 💻 GitHub: [@aanak30](https://github.com/aanak30)
-
----
-
-*Stay curious. Keep questioning. Never stop learning.* ✨
