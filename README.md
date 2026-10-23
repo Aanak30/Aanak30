@@ -1,12 +1,14 @@
-![MasterHead](https://github.com/Aanak30/Aanak30/blob/main/data.avif?raw=true)
+<div align="center">
 
-# <h1 align="center">Hi 👋, I'm Aanak!</h1>
+<img src="https://github.com/Aanak30/Aanak30/blob/main/data.avif?raw=true" width="100%" alt="Data Analytics Banner">
 
-<h2 align="center"> Data Analyst | Turning Data into Meaningful Insights 📊</h2>
+<h1>Hi 👋, I'm Akanksha!</h1>
 
-<img  align="right"  width="180" src=(https://github.com/Aanak30/Aanak30/blob/main/Cute-Cat.jpg)?raw=true/>
+<h2>Data Analyst | Turning Data into Meaningful Insights 📊</h2>
 
----
+</div>
+
+<img align="right" width="180" src="https://github.com/Aanak30/Aanak30/blob/main/Cute-Cat.jpg?raw=true" alt="Cute cat">
 
 I'm curious about how things work, love learning new things, and believe that understanding the **why** is just as important as knowing the **how**.
 
