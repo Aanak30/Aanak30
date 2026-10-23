@@ -2,7 +2,7 @@
 
 <img src="https://github.com/Aanak30/Aanak30/blob/main/data.avif?raw=true" width="100%" height="200" alt="Data Analytics Banner">
 
-<h1>Hi 👋, I'm Akanksha!</h1>
+<h1>Hi 👋, I'm Aanak!</h1>
 
 <h2>Data Analyst | Turning Data into Meaningful Insights 📊</h2>
 
