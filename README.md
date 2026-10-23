@@ -1,10 +1,10 @@
-<p align="center">
-  <img src="YOUR_IMAGE_URL" alt="Aanak's Profile Picture" width="180" />
-</p>
+![MasterHead](https://github.com/Aanak30/Aanak30/blob/main/data.avif?raw=true)
 
 # <h1 align="center">Hi 👋, I'm Aanak!</h1>
 
 <h2 align="center"> Data Analyst | Turning Data into Meaningful Insights 📊</h2>
+
+<img  align="right"  width="180" src=(https://github.com/Aanak30/Aanak30/blob/main/Cute-Cat.jpg)?raw=true/>
 
 ---
 
