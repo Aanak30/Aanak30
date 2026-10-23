@@ -1,8 +1,8 @@
-# <h1 align="center">Hi 👋, I'm Aanak!</h1>
-
 <p align="center">
   <img src="YOUR_IMAGE_URL" alt="Aanak's Profile Picture" width="180" />
 </p>
+
+# <h1 align="center">Hi 👋, I'm Aanak!</h1>
 
 <h2 align="center"> Data Analyst | Turning Data into Meaningful Insights 📊</h2>
 
@@ -52,17 +52,6 @@ I'm curious about how things work, love learning new things, and believe that un
 
 <p align="left">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-</p>
-
----
-
-## 📈 Most Used Languages
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aanak30&layout=compact&langs_count=10&hide_border=true&theme=default"
-    alt="Aanak's Most Used Languages"
-  />
 </p>
 
 ---
