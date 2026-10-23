@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/Aanak30/Aanak30/blob/main/data.avif?raw=true" width="100%" alt="Data Analytics Banner">
+<img src="https://github.com/Aanak30/Aanak30/blob/main/data.avif?raw=true" width="100%" height="180" alt="Data Analytics Banner">
 
 <h1>Hi 👋, I'm Akanksha!</h1>
 
@@ -8,7 +8,7 @@
 
 </div>
 
-<img align="right" width="180" src="https://github.com/Aanak30/Aanak30/blob/main/Cute-Cat.jpg?raw=true" alt="Cute cat">
+<img align="right" width="170" height="170" src="https://github.com/Aanak30/Aanak30/blob/main/Cat.jpg?raw=true" alt="Cute Cat"/>
 
 I'm curious about how things work, love learning new things, and believe that understanding the **why** is just as important as knowing the **how**.
 
